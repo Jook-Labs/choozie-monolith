@@ -1,0 +1,6 @@
+.env
+node_modules
+node_modules/*
+routes/cert_notifications.p8
+.DS_Store
+views/.DS_Store
